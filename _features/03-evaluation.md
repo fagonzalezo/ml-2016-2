@@ -6,4 +6,7 @@ subheading:
 image: 
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+* Assignments 40%
+* Exams 30%
+* Presentation 15%
+* Final project 15%
