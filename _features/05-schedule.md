@@ -2,7 +2,7 @@
 id: schedule
 name: Schedule
 heading: Course schedule
-subheading: Topics, materials and assignments
+subheading: 
 image: 
 ---
 

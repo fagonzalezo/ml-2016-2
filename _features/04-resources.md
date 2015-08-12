@@ -6,7 +6,7 @@ subheading:
 image: 
 ---
 
-## References
+### References
 
 * [Alp10] Alpaydin, E. 2010 Introduction to Machine Learning, 2Ed. The MIT Press.
 * [Mur12] Murphy, Kevin P. Machine learning: a probabilistic perspective. The MIT Press, 2012.
@@ -23,7 +23,7 @@ image:
 * [OCW-ML] 6.867 Machine Learning, Fall 2006,  MIT OpenCourseWare.
 * [STANFD-ML] Andrew Ng, CS229 Machine Learning, Stanford University
 
-## Additional resources
+### Additional resources
 
 * [SciPy](http://www.scipy.org/): scientific, mathematical, and engineering package for Python
 * [scikit-learn](http://scikit-learn.org/): machine learning Scipy add-on

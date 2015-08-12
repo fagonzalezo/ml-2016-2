@@ -34,7 +34,7 @@ image:
 
 4.3. Neural network learning 
 
-5. **Discovering**
+5 **Discovering**
 
 5.1 Mixture densities 
 
@@ -42,7 +42,7 @@ image:
 
 5.3 Matrix factorization
 
-6. **Implementing**
+6 **Implementing**
 
 6.1 Experimental design
 
