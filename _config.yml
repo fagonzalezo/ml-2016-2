@@ -13,3 +13,5 @@ exclude:
   - README.md
   - LICENSE.txt
   - CNAME
+  - Gemfile.bak
+  - .bundle
