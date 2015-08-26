@@ -16,8 +16,8 @@ image:
 </tr>
 <small>
 <tr>
-<td>Aug 12</td>
-<td>Introduction</td>
+<td>Aug 12-19</td>
+<td>1. Introduction</td>
 <td>
 
 <a href= "introduction_ml.pdf"> Brief Introduction to ML slides</a><br>
@@ -26,6 +26,17 @@ image:
 </td>
 <td>
 <a href= "assign1.pdf"> Assignment 1</a>
+</td>
+<tr>
+<tr>
+<td>Aug 26</td>
+<td>2.1 Bayesian decision theory</td>
+<td>
+
+[Alp10] Chap 3 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap3-v1-0.pdf">slides</a>)<br>
+
+</td>
+<td>
 </td>
 <tr>
 </tr>

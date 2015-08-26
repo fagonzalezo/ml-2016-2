@@ -8,10 +8,10 @@ image:
 
 ### References
 
-* [Alp10] Alpaydin, E. 2010 Introduction to Machine Learning, 2Ed. The MIT Press.
-* [Mur12] Murphy, Kevin P. Machine learning: a probabilistic perspective. The MIT Press, 2012.
-* [Barber2013] Barber, David, Bayesian Reasoning and Machine Learning, Cambridge University Press, 2013.
-* [Bis06] Bishop, C. 2006 Pattern Recognition and Machine Learning. Springer-Verlag.
+* [Alp10] Alpaydin, E. 2010 [Introduction to Machine Learning](http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/), 2Ed. The MIT Press.
+* [Mur12] Murphy, Kevin P. [Machine learning: a probabilistic perspective](http://www.cs.ubc.ca/~murphyk/MLbook/). The MIT Press, 2012.
+* [Barber2013] Barber, David, [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage), Cambridge University Press, 2013.
+* [Bis06] Bishop, C. 2006 [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/). Springer-Verlag.
 * [Mit97] Mitchell, T. M. 1997 Machine Learning. 1st. McGraw-Hill Higher Education.
 * [DHS00] Duda, R. O., Hart, P. E., and Stork, D. G. 2000 Pattern Classification (2nd Edition). Wiley-Interscience.
 * [HTF01] Hastie, T. and Tibshirani, R. and Friedman. 2001 The elements of statistical learning: data mining, inference, and prediction. Springer.
