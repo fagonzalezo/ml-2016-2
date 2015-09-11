@@ -58,6 +58,17 @@ Brief Introduction to ML (<a href= "introduction_ml.pdf">slides</a>)<br>
 <td>
 [Alp10] Chap 10 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap10-v1-0.pdf">slides</a>)<br>
 
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td>Sep 16</td>
+<td>3.2 Kernel methods</td>
+<td>
+Introduction to kernel methods (<a href= "kernels.pdf">slides</a>)<br>
+[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
 
 </td>
 <td>
