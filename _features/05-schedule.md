@@ -75,6 +75,21 @@ Introduction to kernel methods (<a href= "kernels.pdf">slides</a>)<br>
 </td>
 </tr>
 
+<tr>
+<td>Sep 16</td>
+<td>4.1 Support vector learning</td>
+<td>
+[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
+<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
+introduction to ML</a>, Smola<br>
+<a href="http://www1.cs.columbia.edu/%7Ekathy/cs4701/documents/jason_svm_tutorial.pdf">Support
+Vector Machine Tutorial</a>, Weston<br>
+</td>
+<td>
+<a href= "assign3.pdf"> Assignment 3</a>
+</td>
+</tr>
+
 
 </small>
 </tbody>
