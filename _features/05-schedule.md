@@ -76,7 +76,7 @@ Introduction to kernel methods (<a href= "kernels.pdf">slides</a>)<br>
 </tr>
 
 <tr>
-<td>Sep 16</td>
+<td>Sep 23</td>
 <td>4.1 Support vector learning</td>
 <td>
 [Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
