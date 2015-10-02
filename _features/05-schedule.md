@@ -90,6 +90,17 @@ Vector Machine Tutorial</a>, Weston<br>
 </td>
 </tr>
 
+<tr>
+<td>Sep 30</td>
+<td>3.1 Feature extraction and selection</td>
+<td>
+Feature Engineering, Léon Bottou (<a href= "http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf">slides</a>)<br>
+[Alp10] Chap 6 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap6-v1-0.pdf">slides</a>)<br>
+</td>
+<td>
+<a href= "assign3.pdf"> Assignment 3</a>
+</td>
+</tr>
 
 </small>
 </tbody>
