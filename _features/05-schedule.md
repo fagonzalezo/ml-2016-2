@@ -44,7 +44,7 @@ Brief Introduction to ML (<a href= "introduction_ml.pdf">slides</a>)<br>
 <td>2.2 Estimation</td>
 <td>
 [Alp10] Chap 4 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap4-v1-0.pdf">slides</a>)<br>
-<a href= "http://nbviewer.ipython.org/6788818">Bias and variance notebook</a><br>
+Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
 
 </td>
 <td>
@@ -98,7 +98,16 @@ Feature Engineering, Léon Bottou (<a href= "http://www.cs.princeton.edu/courses
 [Alp10] Chap 6 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap6-v1-0.pdf">slides</a>)<br>
 </td>
 <td>
+</td>
+</tr>
 
+<tr>
+<td>Oct 7</td>
+<td>4.3. Neural network learning </td>
+[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
+Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">IPython notebook</a>)<br>
+</td>
+<td>
 </td>
 </tr>
 
