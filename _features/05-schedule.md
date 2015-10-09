@@ -104,6 +104,7 @@ Feature Engineering, Léon Bottou (<a href= "http://www.cs.princeton.edu/courses
 <tr>
 <td>Oct 7</td>
 <td>4.3. Neural network learning </td>
+<td>
 [Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
 Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">IPython notebook</a>)<br>
 </td>
