@@ -113,13 +113,16 @@ image:
 					</tr>
 
 					<tr>
-						<td>Oct 14</td>
+						<td>Oct 14-21</td>
 						<td>3.3 Representation learning </td>
 						<td>
 							Deep Learning, Andrew Ng (<a href= "http://research.microsoft.com/en-us/events/fs2013/andrew-ng_machinelearning.pdf">slides</a>)<br>
 							Representation learning for histopathology image analysis, Arévalo and González  (<a href= "arevalo_2014_FL_histopathology.pdf">slides</a>)<br>
+							Deep Learning Tutorial, Yann LeCun (<a href= "http://www.cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf">slides</a>)<br>
+							How we're teaching computers to understand pictures, Li Fei-Fei (<a href= "https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=en">slides</a>)<br>
 						</td>
 						<td>
+							<a href= "assign4.pdf"> Assignment 4</a>
 						</td>
 					</tr>
 
