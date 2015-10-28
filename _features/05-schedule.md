@@ -14,8 +14,6 @@ image:
 			<th>Material</th>
 			<th>Assignments</th>
 		</tr>
-		<small>
-
 			<tr>
 				<td>Aug 12-19</td>
 				<td>1. Introduction</td>
@@ -125,7 +123,16 @@ image:
 							<a href= "assign4.pdf"> Assignment 4</a>
 						</td>
 					</tr>
-
-				</small>
+					<tr>
+						<td>Oct 28</td>
+						<td>4.2 Random forest learning</td>
+						<td>
+							[HTF09] Chap 15 (<a href= "http://statweb.stanford.edu/~tibs/ElemStatLearn/">book</a>)<br>
+							Random Forest and Boosting, Trevor Hastie (<a href= "http://www.slideshare.net/0xdata/gbm-27891077">slides</a>)<br>
+							Trees and Random Forest, Markus Kalisch (<a href= "https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.1.pdf">slides1</a>, <a href= "https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf">slides2</a>)<br>
+						</td>
+						<td>
+						</td>
+					</tr>
 			</tbody>
 		</table>
