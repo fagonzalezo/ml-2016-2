@@ -136,7 +136,7 @@ image:
 					</tr>
 					<tr>
 						<td>Nov 4</td>
-						<td>45.1 Mixture densities </td>
+						<td>5.1 Mixture densities </td>
 						<td>
 							[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)<br>
 						</td>
