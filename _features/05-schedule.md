@@ -121,7 +121,7 @@ image:
 						</td>
 						<td>
 							<a href= "assign4.pdf"> Assignment 4</a><br>
-							<a href= "samples_assign4.txt"> Additional samples for item 1</a>
+							<a href= "samples_assign4.txt"> <short>Additional samples for item 1</short></a>
 						</td>
 					</tr>
 					<tr>
