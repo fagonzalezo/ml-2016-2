@@ -120,7 +120,8 @@ image:
 							How we're teaching computers to understand pictures, Li Fei-Fei (<a href= "https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=en">slides</a>)<br>
 						</td>
 						<td>
-							<a href= "assign4.pdf"> Assignment 4</a>
+							<a href= "assign4.pdf"> Assignment 4</a><br>
+							<a href= "samples_assign4.txt"> Additional samples for item 1</a>
 						</td>
 					</tr>
 					<tr>
