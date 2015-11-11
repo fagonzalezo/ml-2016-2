@@ -144,5 +144,16 @@ image:
 						<td>
 						</td>
 					</tr>
+					<tr>
+						<td>Nov 11</td>
+						<td>5.2 Latent topic models<br>5.3 Matrix factorization </td>
+						<td>
+							Latent Semantic Analysis, CS158 Pomona College (<a href= "http://www.cs.pomona.edu/classes/cs158/resources/158-12(LSA).pdf">slides</a>)<br>
+							Latent Semantic Variable Models, Thomas Hofmann (<a href= "http://videolectures.net/slsfs05_hofmann_lsvm/">videolecture</a>)<br>
+						</td>
+						<td>
+						</td>
+					</tr>
+
 			</tbody>
 		</table>
