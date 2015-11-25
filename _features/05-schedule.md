@@ -150,6 +150,26 @@ image:
 						<td>
 							Latent Semantic Analysis, CS158 Pomona College (<a href= "http://www.cs.pomona.edu/classes/cs158/resources/158-12(LSA).pdf">slides</a>)<br>
 							Latent Semantic Variable Models, Thomas Hofmann (<a href= "http://videolectures.net/slsfs05_hofmann_lsvm/">videolecture</a>)<br>
+							Non-negative Matrix Factorization for Multimodal Image Retrieval, Fabio González (<a href= "NMF-MM-IR.pdf">slides</a>)<br>
+						</td>
+						<td>
+						</td>
+					</tr>
+					<tr>
+						<td>Nov 18</td>
+						<td>5.3 Matrix factorization<br>6.2 Large scale machine learning </td>
+						<td>
+							Two-way Multimodal Online Matrix Factoriza+on, Jorge Vanegas (<a href= "Two-wayMatrixFactorization.pdf">slides</a>)<br>
+							Online Kernel Matrix Factoriza+on, Esteban Paez (<a href= "http://slides.com/aepaezt/deck#/">slides</a>)<br>
+						</td>
+						<td>
+						</td>
+					</tr>
+					<tr>
+						<td>Nov 25</td>
+						<td>6.1 Experimental design</td>
+						<td>
+							[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)<br>
 						</td>
 						<td>
 						</td>
