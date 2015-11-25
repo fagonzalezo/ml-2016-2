@@ -159,8 +159,8 @@ image:
 						<td>Nov 18</td>
 						<td>5.3 Matrix factorization<br>6.2 Large scale machine learning </td>
 						<td>
-							Two-way Multimodal Online Matrix Factoriza+on, Jorge Vanegas (<a href= "Two-wayMatrixFactorization.pdf">slides</a>)<br>
-							Online Kernel Matrix Factoriza+on, Esteban Paez (<a href= "http://slides.com/aepaezt/deck#/">slides</a>)<br>
+							Two-way Multimodal Online Matrix Factorization, Jorge Vanegas (<a href= "Two-wayMatrixFactorization.pdf">slides</a>)<br>
+							Online Kernel Matrix Factorizatioon, Esteban Paez (<a href= "http://slides.com/aepaezt/deck#/">slides</a>)<br>
 						</td>
 						<td>
 						</td>
