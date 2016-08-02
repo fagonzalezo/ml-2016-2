@@ -82,12 +82,11 @@ image:
 							Vector Machine Tutorial</a>, Weston<br>
 						</td>
 						<td>
-							<a href= "assign3.pdf"> Assignment 3</a>
 						</td>
 					</tr>
 
 					<tr>
-						<td>Sep 30</td>
+						<td></td>
 						<td>3.1 Feature extraction and selection</td>
 						<td>
 							Feature Engineering, Léon Bottou (<a href= "http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf">slides</a>)<br>
