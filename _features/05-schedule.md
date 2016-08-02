@@ -15,7 +15,7 @@ image:
 			<th>Assignments</th>
 		</tr>
 			<tr>
-				<td>Aug 12-19</td>
+				<td>Aug 1</td>
 				<td>1. Introduction</td>
 				<td>
 					Brief Introduction to ML (<a href= "introduction_ml.pdf">slides</a>)<br>
@@ -23,12 +23,11 @@ image:
 
 				</td>
 				<td>
-					<a href= "assign1.pdf"> Assignment 1</a>
 				</td>
 			</tr>
 
 			<tr>
-				<td>Aug 26</td>
+				<td></td>
 				<td>2.1 Bayesian decision theory</td>
 				<td>
 					[Alp10] Chap 3 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap3-v1-0.pdf">slides</a>)<br>
@@ -38,7 +37,7 @@ image:
 			</tr>
 
 			<tr>
-				<td>Sep 2</td>
+				<td></td>
 				<td>2.2 Estimation</td>
 				<td>
 					[Alp10] Chap 4 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap4-v1-0.pdf">slides</a>)<br>
@@ -46,12 +45,11 @@ image:
 
 				</td>
 				<td>
-					<a href= "assign2.pdf"> Assignment 2</a>
 				</td>
 			</tr>
 
 			<tr>
-				<td>Sep 9</td>
+				<td></td>
 				<td>2.3 Linear models</td>
 				<td>
 					[Alp10] Chap 10 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap10-v1-0.pdf">slides</a>)<br>
@@ -62,7 +60,7 @@ image:
 			</tr>
 
 			<tr>
-				<td>Sep 16</td>
+				<td></td>
 				<td>3.2 Kernel methods</td>
 				<td>
 					Introduction to kernel methods (<a href= "kernels.pdf">slides</a>)<br>
@@ -74,7 +72,7 @@ image:
 			</tr>
 
 			<tr>
-				<td>Sep 23</td>
+				<td></td>
 				<td>4.1 Support vector learning</td>
 				<td>
 					[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
@@ -100,7 +98,7 @@ image:
 					</tr>
 
 					<tr>
-						<td>Oct 7</td>
+						<td></td>
 						<td>4.3. Neural network learning </td>
 						<td>
 							[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
@@ -111,7 +109,7 @@ image:
 					</tr>
 
 					<tr>
-						<td>Oct 14-21</td>
+						<td></td>
 						<td>3.3 Representation learning </td>
 						<td>
 							Deep Learning, Andrew Ng (<a href= "http://research.microsoft.com/en-us/events/fs2013/andrew-ng_machinelearning.pdf">slides</a>)<br>
@@ -120,12 +118,10 @@ image:
 							How we're teaching computers to understand pictures, Li Fei-Fei (<a href= "https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=en">slides</a>)<br>
 						</td>
 						<td>
-							<a href= "assign4.pdf"> Assignment 4</a><br>
-							<a href= "samples_assign4.txt"> <short>Additional samples for item 1</short></a>
 						</td>
 					</tr>
 					<tr>
-						<td>Oct 28</td>
+						<td></td>
 						<td>4.2 Random forest learning</td>
 						<td>
 							[HTF09] Chap 15 (<a href= "http://statweb.stanford.edu/~tibs/ElemStatLearn/">book</a>)<br>
@@ -136,7 +132,7 @@ image:
 						</td>
 					</tr>
 					<tr>
-						<td>Nov 4</td>
+						<td></td>
 						<td>5.1 Mixture densities </td>
 						<td>
 							[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)<br>
@@ -145,7 +141,7 @@ image:
 						</td>
 					</tr>
 					<tr>
-						<td>Nov 11</td>
+						<td></td>
 						<td>5.2 Latent topic models<br>5.3 Matrix factorization </td>
 						<td>
 							Latent Semantic Analysis, CS158 Pomona College (<a href= "http://www.cs.pomona.edu/classes/cs158/resources/158-12(LSA).pdf">slides</a>)<br>
@@ -156,7 +152,7 @@ image:
 						</td>
 					</tr>
 					<tr>
-						<td>Nov 18</td>
+						<td></td>
 						<td>5.3 Matrix factorization<br>6.2 Large scale machine learning </td>
 						<td>
 							Two-way Multimodal Online Matrix Factorization, Jorge Vanegas (<a href= "Two-wayMatrixFactorization.pdf">slides</a>)<br>
@@ -166,7 +162,7 @@ image:
 						</td>
 					</tr>
 					<tr>
-						<td>Nov 25</td>
+						<td></td>
 						<td>6.1 Experimental design</td>
 						<td>
 							[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)<br>
