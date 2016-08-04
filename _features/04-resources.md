@@ -31,3 +31,5 @@ image:
 * [SciPy](http://www.scipy.org/): scientific, mathematical, and engineering package for Python
 * [scikit-learn](http://scikit-learn.org/): machine learning Scipy add-on
 * [Kaggle](https://www.kaggle.com/): datascience competition, many interesting data sets and different competitions with prizes.
+* [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning): one of the first (and still one of the best) machine learning MOOCs taught by Andrew Ng.
+* [Stanford Statistical Learning Course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about): an introductory course with focus in supervised learning and taught by Trevor Hastie and Rob Tibshirani.

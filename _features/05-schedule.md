@@ -19,7 +19,7 @@ image:
 				<td>1. Introduction</td>
 				<td>
 					Brief Introduction to ML (<a href= "introduction_ml.pdf">slides</a>)<br>
-					<a href= "http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn"> Jeremy Howard: The wonderful and terrifying implications of computers that can learn </a>
+					<a href= "http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn"> Jeremy Howard: The wonderful and terrifying implications of computers that can learn </a><br>
 					<a href= "https://www.youtube.com/watch?v=2wLfFB_6SKI">Hastie and Tibshirani: Statistical Learning Introduction</a>
 				</td>
 				<td>
