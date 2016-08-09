@@ -28,7 +28,7 @@ image:
 			</tr>
 
 			<tr>
-				<td></td>
+				<td>Aug 8</td>
 				<td>2.1 Bayesian decision theory</td>
 				<td>
 					[Alp10] Chap 3 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap3-v1-0.pdf">slides</a>)<br>
@@ -38,7 +38,7 @@ image:
 			</tr>
 
 			<tr>
-				<td></td>
+				<td>Aug 15</td>
 				<td>2.2 Estimation</td>
 				<td>
 					[Alp10] Chap 4 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap4-v1-0.pdf">slides</a>)<br>
