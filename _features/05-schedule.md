@@ -46,6 +46,7 @@ image:
 
 				</td>
 				<td>
+				<a href= "assign2.pdf">Assignment 2</a>
 				</td>
 			</tr>
 
