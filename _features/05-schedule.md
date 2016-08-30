@@ -51,7 +51,7 @@ image:
 			</tr>
 
 			<tr>
-				<td></td>
+				<td>Aug 22</td>
 				<td>2.3 Linear models</td>
 				<td>
 					[Alp10] Chap 10 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap10-v1-0.pdf">slides</a>)<br>
@@ -62,7 +62,7 @@ image:
 			</tr>
 
 			<tr>
-				<td></td>
+				<td>Aug 29</td>
 				<td>3.2 Kernel methods</td>
 				<td>
 					Introduction to kernel methods (<a href= "kernels.pdf">slides</a>)<br>
