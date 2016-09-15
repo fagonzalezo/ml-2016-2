@@ -100,7 +100,7 @@ image:
 			</tr>
 
 			<tr>
-				<td></td>
+				<td>Sep 19</td>
 				<td>4.3. Neural network learning </td>
 				<td>
 					[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
@@ -111,7 +111,7 @@ image:
 			</tr>
 
 			<tr>
-				<td></td>
+				<td>Sep 26</td>
 				<td>3.3 Representation learning </td>
 				<td>
 					Deep Learning, Andrew Ng (<a href= "http://research.microsoft.com/en-us/events/fs2013/andrew-ng_machinelearning.pdf">slides</a>)<br>
