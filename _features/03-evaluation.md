@@ -11,4 +11,4 @@ image:
 * Presentation 15%
 * Final project 15%
 
-[Grades](https://docs.google.com/a/unal.edu.co/spreadsheets/d/1d2dmMJ1UJmAs0zZk9rf6WhMfwgndrE2EIVUeNm1R7no/pubhtml?gid=789522224&single=true)
+[Grades](https://drive.google.com/open?id=1LvDMZmWMCOivOWpmfL8n_HFXEKcj9LgfWGV3hAQ5Qa8)
