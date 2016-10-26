@@ -123,7 +123,8 @@ image:
 					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial</a> <br>
 				</td>
 				<td>
-					<a href= "assign4.pdf">Assignment 4</a>
+					<a href= "assign4.pdf">Assignment 4</a><br>
+					<a href= "http://fagonzalezo.github.io/ml/samples_assign4.txt">Additional samples for question 1</a>
 				</td>
 			</tr>
 			<tr>
@@ -138,7 +139,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Oct 24</td>
 				<td>5.1 Mixture densities </td>
 				<td>
 					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)<br>
@@ -147,7 +148,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Oct 31</td>
 				<td>5.2 Latent topic models<br>5.3 Matrix factorization </td>
 				<td>
 					Latent Semantic Analysis, CS158 Pomona College (<a href= "http://www.cs.pomona.edu/classes/cs158/resources/158-12(LSA).pdf">slides</a>)<br>
