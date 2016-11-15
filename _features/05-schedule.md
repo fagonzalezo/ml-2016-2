@@ -159,7 +159,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Nov 7</td>
 				<td>5.3 Matrix factorization<br>6.2 Large scale machine learning </td>
 				<td>
 					Two-way Multimodal Online Matrix Factorization, Jorge Vanegas (<a href= "Two-wayMatrixFactorization.pdf">slides</a>)<br>
@@ -169,7 +169,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Nov 14</td>
 				<td>6.1 Experimental design</td>
 				<td>
 					[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)<br>
